@@ -18,7 +18,7 @@
 <div align="center">
 
   <a href="https://github.com/OraclYT/vort3x-demo">
-    <img src="images/logo.png" alt="Logo" width="100" height="100">
+    <img src="images/logo.png" alt="Logo" width="130" height="100">
   </a> 
 
 
@@ -137,6 +137,8 @@ Bhargav Singh Barad - [@linkedin](https://www.linkedin.com/in/bhargav-singh-bara
 
 Project Demo Link: [Video Demo](https://youtube.com/playlist?list=PLpSi8Gwi0z9nyUyJVV74FNBRccZhwmUbg)
 
+
+### !NO SOURCE CODE(CAN BE USED BY OTHERS IF DECLARED)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
